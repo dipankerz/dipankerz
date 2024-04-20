@@ -2,7 +2,8 @@
 ### Hi there, I'm dipankerz - aka [Deepak][website] 👋 
 
 [![Website](https://img.shields.io/website?label=WebSite&style=for-the-badge&url=https://tps-f.github.io/hp/)](https://tps-f.github.io/hp/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TpsF15?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TpsF15?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dipankerz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dipankerz?ref_src=twsrc%5Etfw)
+
 
 ## I'm a Developer, and Music Producer!!
 
