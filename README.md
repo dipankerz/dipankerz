@@ -46,4 +46,4 @@
 
 
 [website]: https://tps-f.github.io/hp/
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/dipankerz
