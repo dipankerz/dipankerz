@@ -13,7 +13,7 @@
 - Discord: Ftps (old: Ftps#3389)
 
 <br />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tps-F&count_private=true" />
+<img align="left" alt="dipankerz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dipankerz&count_private=true" />
 
 ### Languages and Tools:
 
