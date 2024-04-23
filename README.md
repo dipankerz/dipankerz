@@ -10,7 +10,7 @@
 - I make Music
 - I'm a university student in India
 - I like to make something!
-- Discord: Ftps (old: Ftps#3389)
+- Discord: dipankerz 
 
 <br />
 <img align="left" alt="dipankerz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dipankerz&count_private=true" />
