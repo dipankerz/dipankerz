@@ -5,9 +5,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dipankerz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dipankerz?ref_src=twsrc%5Etfw)
 
 
-## I'm a Developer, and Music Producer!!
+## I'm a Developer!!
 
-- I make Music
 - I'm a university student in India
 - I like to make something!
 - Discord: dipankerz 
